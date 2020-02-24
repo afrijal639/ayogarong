@@ -6,7 +6,7 @@ echo color("green"," Claim Voucher \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 echo color("green"," =================================== \n");
 echo " Created by : GARONG \n";
-echo " Version    : 001 \n";
+echo " Version    : 002 \n";
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
 
@@ -86,7 +86,7 @@ echo color("green"," =================================== \n");
 						echo "\n".color("red","-] Message: ".$messageboba10);
 					}
 					goride:
-					echo "\n".color("yellow","!] Claim Voc AYOCOBAGOJEK");
+					echo "\n".color("yellow","!] Claim Voc COBAGORIDE");
 					echo "\n".color("yellow","!] Please wait...");
 					for($a=1;$a<=3;$a++){
 						echo color("yellow",".");
